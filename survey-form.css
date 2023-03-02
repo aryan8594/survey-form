@@ -5,9 +5,9 @@
 }
 
 body {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  color: white;
-  background-color: black;
+  font-family: Impact,Arial Black,sans serif;
+  color: #ADEFD1FF;
+  background-color: #00203FFF;
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
 .main-heading {
   font-size: 4rem;
   margin: 2rem 0rem 1rem;
-  color: white;
+  color: #ADEFD1FF;
   text-align: center;
 }
 
@@ -89,10 +89,9 @@ button {
   color: wite;
   padding: 0.5rem 0.8rem;
   border: 1px solid white;
-  background-color: #023de3;
+  background-color:#195190FF;
   color: white;
   border-radius: 10px;
   box-shadow: 1px #0000;
   box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
 }
-
